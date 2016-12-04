@@ -1,0 +1,8 @@
+apis:
+- test/interceptor/no_pre_post/no_pre_post.dart
+- test/route/more_inputs_than_params/more_inputs_than_params.dart
+- test/interceptor/more_inputs_than_params/more_inputs_than_params.dart
+- test/route/wrong_input_interceptor_type/wrong_input_interceptor_type.dart
+- test/interceptor/pre/wrong_input_interceptor_type/wrong_input_interceptor_type.dart
+- test/interceptor/post/wrong_input_interceptor_type/wrong_input_interceptor_type.dart
+- test/route/input_of_void_interceptor/input_of_void_interceptor.dart
